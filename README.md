@@ -7,8 +7,7 @@ My responsibilities are:
 - Requirement analysis (like SRS)
 - Write test plan, estimate and tracking time
 - Write test cases for modules
-- Execute test cases and log bugs
-<br>
+- Execute test cases and log bugs<br>
 Tools: MS Office, JIRA, ClickUp. <br>
 ## Project Details🐞
 ### Version 1 
