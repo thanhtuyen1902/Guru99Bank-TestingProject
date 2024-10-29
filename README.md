@@ -8,7 +8,7 @@ My responsibilities are:
 - Write test plan, estimate and tracking time
 - Write test cases for modules
 - Execute test cases and log bugs<br>
-Tools: MS Office, JIRA, ClickUp. <br>
+Tools: MS Office, JIRA, ClickUp. <br><br>
 ## Project Details🐞
 ### Version 1 
 **Documentation**<br>
