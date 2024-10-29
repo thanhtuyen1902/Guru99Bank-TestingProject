@@ -1,6 +1,14 @@
 # 💻GURU99 BANK TESTING PROJECT
 
 ## Introduction
+Guru99 Bank is a web application for the banking business. I test this web app and ensure that it performs well and meets the customer's need
+My responsibilities are:
+- Learn Banking business
+- Requirement analysis (like SRS)
+- Write test plan, estimate and tracking time
+- Write test cases for modules
+- Execute test cases and log bugs
+Tools: MS Office, JIRA, ClickUp.
 ## Project Details🐞
 ### Version 1 
 **Documentation**<br>
